@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinjoythomas" alt="kevinjoythomas" /></a> </p>
 
-- 📫 How to reach me **kevinjoythomas2004@gmail.com**
+- 📫 Email id: **kevinjoythomas2004@gmail.com**
 
-- 📄 Know about my experiences [https://acesse.one/mwkXG](https://acesse.one/mwkXG)
+- 📄 Resume: [https://acesse.one/mwkXG](https://acesse.one/mwkXG)
 
 - ⚡ About me:  **Social butterfly who code 40+ hours a week**
 
