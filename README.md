@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kevinjoythomas2004@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kevin-joy-thomas-0aa399271/overlay/1708455257770/single-media-viewer?type=DOCUMENT&profileId=ACoAAEJxSkIB5wmgF9z20tzwKEnd-Vt275W6pGM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BdIU4svKoT%2FSSzTbhFgXRsA%3D%3D](https://www.linkedin.com/in/kevin-joy-thomas-0aa399271/overlay/1708455257770/single-media-viewer?type=DOCUMENT&profileId=ACoAAEJxSkIB5wmgF9z20tzwKEnd-Vt275W6pGM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BdIU4svKoT%2FSSzTbhFgXRsA%3D%3D)
+- 📄 Know about my experiences [https://acesse.one/mwkXG](https://acesse.one/mwkXG)
 
 - ⚡ About me:  **Social butterfly who code 40+ hours a week**
 
