@@ -3,16 +3,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinjoythomas" alt="kevinjoythomas" /></a> </p>
 
-<h3 align="left">Connect with me :)</h3>
+- 📫 How to reach me **kevinjoythomas2004@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/kevin-joy-thomas-0aa399271/overlay/1708455257770/single-media-viewer?type=DOCUMENT&profileId=ACoAAEJxSkIB5wmgF9z20tzwKEnd-Vt275W6pGM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BdIU4svKoT%2FSSzTbhFgXRsA%3D%3D](https://www.linkedin.com/in/kevin-joy-thomas-0aa399271/overlay/1708455257770/single-media-viewer?type=DOCUMENT&profileId=ACoAAEJxSkIB5wmgF9z20tzwKEnd-Vt275W6pGM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BdIU4svKoT%2FSSzTbhFgXRsA%3D%3D)
+
+- ⚡ About me:  **Social butterfly who code 40+ hours a week**
+
+<h3 align="left">Connect :) </h3>
 <p align="left">
 <a href="https://twitter.com/kevinjoythomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevinjoythomas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kevin-joy-thomas-0aa399271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kevin-joy-thomas-0aa399271/" height="30" width="40" /></a>
 <a href="https://kaggle.com/kevinjoythomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kevinjoythomas" height="30" width="40" /></a>
 <a href="https://instagram.com/kevinjoythomas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevinjoythomas_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/kevinjoythomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kevinjoythomas" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kevinjoythomas21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kevinjoythomas21" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/kevinjoythomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/kevinjoythomas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kevinjoythomas7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kevinjoythomas7/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kevinjoythomas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kevinjoythomas" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kevinjoythomas21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kevinjoythomas21" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kevinjoythomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kevinjoythomas" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kevinjoythomas7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevinjoythomas7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
