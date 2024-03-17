@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Joy Thomas</h1>
-<h3 align="center">A Computer Vision Intern at Envideo Technologies</h3>
+<h3 align="center">A Computer Vision Intern at Envideo Technology Private Limited</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinjoythomas" alt="kevinjoythomas" /></a> </p>
 
