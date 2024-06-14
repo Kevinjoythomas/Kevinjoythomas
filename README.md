@@ -5,7 +5,7 @@
 
 - 📫 Email id: **kevinjoythomas2004@gmail.com**
 
-- 📄 Resume: [https://acesse.one/mwkXG](https://acesse.one/mwkXG)
+- 📄 Resume: [https://acesse.one/mwkXG](https://www.linkedin.com/in/kevin-joy-thomas-0aa399271/overlay/1715195867298/single-media-viewer/?profileId=ACoAAEJxSkIB5wmgF9z20tzwKEnd-Vt275W6pGM)
 
 - ⚡ About me:  **Social butterfly who code 40+ hours a week**
 <h3 align="left">Tech Stack:</h3>
