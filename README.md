@@ -43,7 +43,7 @@
 ### 
 
 <a href="https://leetcode.com/u/kevinjoythomas7">
-  <img height=200 align="center" src="https://leetcard.jacoblin.cool/kevinjoythomas7?theme=unicorn&extension=activity" />
+  <img height=400 align="center" src="https://leetcard.jacoblin.cool/kevinjoythomas7?theme=unicorn&extension=activity" />
 </a>
 
 
