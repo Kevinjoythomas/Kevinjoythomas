@@ -27,12 +27,13 @@
 <a href="https://www.leetcode.com/kevinjoythomas7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevinjoythomas7" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/kevinjoythomas/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kevinjoythomas" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
-<a href="https://github.com/kevinjoythomas/OpenHeath">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinjoythomas&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kevinjoythomas)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjoythomas&layout=compact)
 
