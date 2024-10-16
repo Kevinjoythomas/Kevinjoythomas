@@ -39,6 +39,7 @@
 <a href="https://github.com/Kevinjoythomas/Stroke-Prediction-Pipeline">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/Kevinjoythomas/OpenHealth%20">
+
+<a href="https://github.com/Kevinjoythomas/OpenHealth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=convoychat" />
 </a>
