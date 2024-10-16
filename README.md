@@ -36,9 +36,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kevinjoythomas)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Kevinjoythomas/Stroke-Prediction-Pipeline">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/kevinjoythomas/OpenHealth">
+<a href="https://github.com/Kevinjoythomas/OpenHealth%20">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=convoychat" />
 </a>
