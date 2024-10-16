@@ -31,5 +31,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinjoythomas&show_icons=true&locale=en&layout=compact" alt="kevinjoythomas" /></p>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kevinjoythomas&theme=dark&hide_border=false)<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinjoythomas&show_icons=true&locale=en" alt="kevinjoythomas" /></p>
