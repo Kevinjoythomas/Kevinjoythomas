@@ -28,10 +28,8 @@
 
 ###      
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kevinjoythomas&show_icons=true&theme=radical" />
-</a>
-</br>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinjoythomas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | 
+| ------------- | ------------- |
 
 ### 🔝 Top Contributed Repo
 <a href="https://github.com/anuraghazra/convoychat">
