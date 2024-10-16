@@ -28,7 +28,7 @@
 
 ###      
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img height=170 src="https://github-readme-stats.vercel.app/api?username=kevinjoythomas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=kevinjoythomas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | 
 
 
 <a href="https://github.com/anuraghazra/convoychat">
@@ -38,7 +38,7 @@
 ### 
 
 <a href="https://leetcode.com/u/kevinjoythomas7">
-  <img height=400 align="center" src="https://leetcard.jacoblin.cool/kevinjoythomas7?theme=unicorn&extension=activity" />
+  <img height=370 align="center" src="https://leetcard.jacoblin.cool/kevinjoythomas7?theme=unicorn&extension=activity" />
 </a>
 
 
