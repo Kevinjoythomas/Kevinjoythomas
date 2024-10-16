@@ -43,7 +43,7 @@
 ### 
 
 <a href="https://leetcode.com/u/kevinjoythomas7">
-  <img height=200 align="center" src="https://leetcard.jacoblin.cool/kevinjoythomas7" />
+  <img height=200 align="center" src="![Leetcode Stats](https://leetcard.jacoblin.cool/kevinjoythomas7)" />
 </a>
 
 
