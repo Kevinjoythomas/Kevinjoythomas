@@ -1,4 +1,4 @@
-<h4 align="center"><img src="https://github.com/Kevinjoythomas/Kevinjoythomas/blob/main/g.png" alt="css3" width="50" height="50"/></h4>
+<h4 align="center"><img src="https://github.com/Kevinjoythomas/Kevinjoythomas/blob/main/g.png" alt="css3" width="40" height="40"/></h4>
 <h1 align="center">Kevin Joy Thomas</h1>
 <h2 align="center">An Upcoming SWE Intern at Google </h2>
 
