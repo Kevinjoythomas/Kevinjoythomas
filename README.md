@@ -23,7 +23,7 @@
 </br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Kevinjoythomas" />
+  <img height=100 align="center" src="https://streak-stats.demolab.com/?user=Kevinjoythomas" />
 </a>
 
 ###      
