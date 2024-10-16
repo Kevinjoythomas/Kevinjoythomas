@@ -29,6 +29,6 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kevinjoythomas)](https://git.io/streak-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinjoythomas&show_icons=true&locale=en&layout=compact" alt="kevinjoythomas" /></p><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjoythomas)]
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinjoythomas&show_icons=true&theme=radical)
