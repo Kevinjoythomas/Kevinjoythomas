@@ -13,7 +13,18 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kevinjoythomas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kevinjoythomas7)
+<a href="https://github.com/Kevinjoythomas/Stroke-Prediction-Pipeline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=Stroke-Prediction-Pipeline" />
+</a>
+
+<a href="https://github.com/Kevinjoythomas/OpenHealth">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=OpenHealth" />
+</a>
+
+<a href="https://leetcode.com/u/kevinjoythomas7">
+  <img height=200 align="center" src="https://leetcard.jacoblin.cool/kevinjoythomas7" />
+</a>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kevinjoythomas&show_icons=true&theme=radical" />
@@ -24,13 +35,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kevinjoythomas)](https://git.io/streak-stats)
 
-<a href="https://github.com/Kevinjoythomas/Stroke-Prediction-Pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=Stroke-Prediction-Pipeline" />
-</a>
 
-<a href="https://github.com/Kevinjoythomas/OpenHealth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=OpenHealth" />
-</a>
 
 <h3 align="left">Connect :) </h3>
 <p align="left">
