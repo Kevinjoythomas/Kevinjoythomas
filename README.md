@@ -23,12 +23,12 @@
 </br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://streak-stats.demolab.com/?user=Kevinjoythomas" />
+  <img height=170 align="center" src="https://streak-stats.demolab.com/?user=Kevinjoythomas" />
 </a>
 
 ###      
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 src="https://github-readme-stats.vercel.app/api?username=kevinjoythomas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img height=170 src="https://github-readme-stats.vercel.app/api?username=kevinjoythomas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | 
 
 
 <a href="https://github.com/anuraghazra/convoychat">
