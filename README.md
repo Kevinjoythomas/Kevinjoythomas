@@ -30,7 +30,6 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinjoythomas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kevinjoythomas7?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/kevinjoythomas7?theme=unicorn&extension=activity)
 
 ### 🔝 Top Contributed Repo
 <a href="https://github.com/anuraghazra/convoychat">
@@ -44,7 +43,7 @@
 ### 
 
 <a href="https://leetcode.com/u/kevinjoythomas7">
-  <img height=200 align="center" src="![Leetcode Stats](https://leetcard.jacoblin.cool/kevinjoythomas7)" />
+  <img height=200 align="center" src="https://leetcard.jacoblin.cool/kevinjoythomas7?theme=unicorn&extension=activity" />
 </a>
 
 
