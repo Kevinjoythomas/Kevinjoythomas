@@ -2,7 +2,7 @@
 <h1 align="center">Kevin Joy Thomas</h1>
 <h2 align="center">An Upcoming SWE Intern at Google </h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinjoythomas" alt="kevinjoythomas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=https://github-profile-trophy.vercel.app/?username=kevinjoythomas&theme=radical alt="kevinjoythomas" /></a> </p>
 
 - 📫 Email id: **kevinjoythomas2004@gmail.com**
 
