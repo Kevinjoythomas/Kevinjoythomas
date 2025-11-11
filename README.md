@@ -1,6 +1,6 @@
 <h4 align="center"><img src="https://github.com/Kevinjoythomas/Kevinjoythomas/blob/main/g.png" alt="css3" width="40" height="40"/></h4>
 <h1 align="center">Kevin Joy Thomas</h1>
-<h2 align="center">An Upcoming SWE Intern at Google </h2>
+<h2 align="center">SWE Intern at Google </h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=https://github-profile-trophy.vercel.app/?username=kevinjoythomas&theme=radical alt="kevinjoythomas" /></a> </p>
 
