@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:fe428e,100:a855f7&height=180&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=header" />
 
 <div align="center">
 
-<img src="https://github.com/Kevinjoythomas/Kevinjoythomas/blob/main/g.png" width="140" />
+<img src="https://github.com/Kevinjoythomas/Kevinjoythomas/blob/main/g.png" width="150" />
 
 # Kevin Joy Thomas
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&random=false&width=650&height=70&lines=%F0%9F%9A%80+SWE+Intern+at+Google;%F0%9F%A7%A0+ML+Engineer+%7C+2%2B+Years+of+Experience;%F0%9F%94%A5+Building+AI+Systems+That+Matter;%E2%9A%A1+Competitive+Programmer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=55&lines=AI+Engineer+%7C+Ex-Google+SWE+Intern;Agentic+AI+%26+Computer+Vision;Building+Production-Grade+AI+Systems;2%2B+Years+in+ML+%26+Software+Engineering" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -14,37 +14,34 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kevinjoythomas)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/kevinjoythomas)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/kevinjoythomas7)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinjoythomas2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinjoythomas2004@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kevinjoythomas&style=for-the-badge&color=fe428e&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=kevinjoythomas&style=flat-square&color=1f6feb&label=Profile+Views)
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## About
+
+AI Engineer at **United Field Services** building Agentic AI and Contextual Engineering solutions. Former **Software Engineering Intern at Google** on the Workspace Search team. 2+ years of hands-on experience across Machine Learning, Computer Vision, MLOps, and Full-Stack Development.
 
 ```yaml
 name: Kevin Joy Thomas
-current_role: SWE Intern @ Google
+current_role: AI Engineer @ United Field Services
+previous: Ex-Google SWE Intern (Workspace Search)
 experience: 2+ Years in ML & Software Engineering
 location: Hyderabad, India
-focus_areas:
-  - Machine Learning & Computer Vision
-  - MLOps & Production AI Pipelines
-  - Full-Stack Development
-  - Competitive Programming
+focus: [Agentic AI, Computer Vision, MLOps, Competitive Programming]
 ```
 
-> **Building intelligent systems that bridge the gap between research and production.**
-
-- :telescope: Currently working as a **Software Engineering Intern at Google**
-- :brain: Deep expertise in **Computer Vision, NLP, and end-to-end ML pipelines**
-- :trophy: Active competitive programmer on **LeetCode, Codeforces & CodeChef**
-- :seedling: Passionate about **MLOps** &mdash; deploying ML models at scale with AWS, Docker & CI/CD
-- :mailbox: Reach me at **kevinjoythomas2004@gmail.com**
+- AI Engineer at United Field Services — Agentic AI & Contextual Engineering
+- Former SWE Intern at Google — Google Workspace Search, Bangalore
+- ML Intern at mokSa.ai — Computer Vision with OpenVINO
+- DSA & AI Instructor at Suntek Corp Solutions
+- 1M+ impressions on LinkedIn with 9,700+ followers
 
 <br/>
 
@@ -52,7 +49,47 @@ focus_areas:
 
 <br/>
 
-## :wrench: Tech Stack
+## Experience
+
+**AI Engineer** &mdash; United Field Services, Inc. `Oct 2025 - Present`
+<br/>Agentic AI, Contextual Engineering &middot; Remote
+
+**Software Engineering Intern** &mdash; Google `Jun 2025 - Aug 2025`
+<br/>Google Workspace Search &middot; C++, Java &middot; Bangalore, India
+
+**DSA & AI Instructor** &mdash; Suntek Corp Solutions `Feb 2025 - Aug 2025`
+<br/>Data Structures, Algorithms, AI &middot; Hyderabad, India
+
+**Machine Learning Intern** &mdash; mokSa.ai `Feb 2025 - Jun 2025`
+<br/>Computer Vision, C++, OpenVINO &middot; Wyoming, US
+
+**Technical Lead** &mdash; WiseCoder `Mar 2025 - May 2025`
+<br/>Project Management, Team Leadership &middot; Remote
+
+<br/>
+
+---
+
+<br/>
+
+## Achievements
+
+<div align="center">
+
+![](https://img.shields.io/badge/Microsoft_Hackathon-Top_8_%2F_500_Teams-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Amazon_ML_Challenge-Rank_89_%2F_74%2C850-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![](https://img.shields.io/badge/CBIT_Hackathon-Top_10_%2F_350_Teams-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-1M+_Impressions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Tech Stack
 
 <table>
 <tr>
@@ -75,11 +112,11 @@ focus_areas:
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0068B5?style=flat-square&logo=intel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -103,6 +140,7 @@ focus_areas:
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -115,10 +153,12 @@ focus_areas:
 </td>
 <td valign="top" width="33%">
 
-**Tools**
+**Tools & Techniques**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA_Fine--Tuning-FF6F00?style=flat-square&logo=weightsandbiases&logoColor=white)
 
 </td>
 </tr>
@@ -130,81 +170,37 @@ focus_areas:
 
 <br/>
 
-## :rocket: Featured Projects
+## Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Kevinjoythomas/OpenHealth">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=OpenHealth&theme=radical&hide_border=true&bg_color=0d1117&title_color=fe428e&icon_color=f8d847" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=OpenHealth&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=30363d" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/Kevinjoythomas/Stroke-Prediction-Pipeline">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=Stroke-Prediction-Pipeline&theme=radical&hide_border=true&bg_color=0d1117&title_color=fe428e&icon_color=f8d847" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=Stroke-Prediction-Pipeline&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=30363d" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Kevinjoythomas/Person-Reidentification-System">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=Person-Reidentification-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=fe428e&icon_color=f8d847" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=Person-Reidentification-System&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=30363d" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/Kevinjoythomas/License-Plate-Parser-YOLOv5">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=License-Plate-Parser-YOLOv5&theme=radical&hide_border=true&bg_color=0d1117&title_color=fe428e&icon_color=f8d847" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=License-Plate-Parser-YOLOv5&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=30363d" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Kevinjoythomas/Network-Security-Pipeline">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=Network-Security-Pipeline&theme=radical&hide_border=true&bg_color=0d1117&title_color=fe428e&icon_color=f8d847" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=Network-Security-Pipeline&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=30363d" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/Kevinjoythomas/Crowd-Detection-System">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=Crowd-Detection-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=fe428e&icon_color=f8d847" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## :chart_with_upwards_trend: GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kevinjoythomas&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=fe428e&icon_color=f8d847&text_color=a9fef7" />
 &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinjoythomas&theme=radical&hide_border=true&background=0d1117&stroke=fe428e&ring=fe428e&fire=f8d847&currStreakLabel=fe428e&sideLabels=a9fef7&currStreakNum=a9fef7&sideNums=a9fef7&dates=545454" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjoythomas&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=fe428e&text_color=a9fef7" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kevinjoythomas&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=fe428e&line=a855f7&point=f8d847&area=true&area_color=fe428e" />
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## :trophy: GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=kevinjoythomas&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
+<a href="https://github.com/Kevinjoythomas/Crowd-Detection-System">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinjoythomas&repo=Crowd-Detection-System&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=30363d" />
+</a>
 
 </div>
 
@@ -214,12 +210,56 @@ focus_areas:
 
 <br/>
 
-## :zap: Competitive Programming
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kevinjoythomas&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=30363d" />
+&nbsp;
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinjoythomas&background=0d1117&stroke=30363d&ring=1f6feb&fire=f0883e&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjoythomas&layout=compact&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kevinjoythomas&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f0883e&area=true&area_color=1f6feb&border_color=30363d&hide_border=false" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=kevinjoythomas&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Competitive Programming
 
 <div align="center">
 
 <a href="https://leetcode.com/u/kevinjoythomas7">
-  <img src="https://leetcard.jacoblin.cool/kevinjoythomas7?theme=dark&font=Fira%20Code&ext=activity&border=0" width="520" />
+  <img src="https://leetcard.jacoblin.cool/kevinjoythomas7?theme=dark&font=JetBrains%20Mono&ext=activity&border=0" width="520" />
 </a>
 
 <br/><br/>
@@ -236,7 +276,19 @@ focus_areas:
 
 <br/>
 
-## :handshake: Let's Connect
+## Education
+
+**MVSR Engineering College** &mdash; BE, Information Technology `GPA: 8.65`
+
+**Meluha International School** &mdash; CBSE `Grade: 90.4%`
+
+<br/>
+
+---
+
+<br/>
+
+## Connect
 
 <div align="center">
 
@@ -246,12 +298,8 @@ focus_areas:
 [![Instagram](https://img.shields.io/badge/@kevinjoythomas__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kevinjoythomas_)
 [![Gmail](https://img.shields.io/badge/kevinjoythomas2004-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinjoythomas2004@gmail.com)
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="520" />
-
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:fe428e,100:a855f7&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer" />
