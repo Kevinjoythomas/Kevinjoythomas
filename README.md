@@ -30,11 +30,10 @@
 
 ## About
 
-AI Engineer at **United Field Services** building Agentic AI and Contextual Engineering solutions. Former **Software Engineering Intern at Google** on the Workspace Search team. 2+ years of hands-on experience across Machine Learning, Computer Vision, MLOps, and Full-Stack Development.
+Former **Software Engineering Intern at Google** on the Workspace Search team. 2+ years of hands-on experience across Machine Learning, Computer Vision, MLOps, and Full-Stack Development.
 
 ```yaml
 name: Kevin Joy Thomas
-current_role: AI Engineer @ United Field Services
 previous: Ex-Google SWE Intern (Workspace Search)
 experience: 2+ Years in ML & Software Engineering
 location: Hyderabad, India
@@ -68,7 +67,7 @@ focus: [Agentic AI, Computer Vision, MLOps, Competitive Programming]
 </td>
 <td>
 
-**AI Engineer** &mdash; United Field Services, Inc. `Oct 2025 - Present`
+**AI Engineer** &mdash; United Field Services, Inc. `Oct 2025 - May 2026`
 <br/>Agentic AI, Contextual Engineering, Generative AI, LLMs, n8n &middot; Remote
 
 </td>
