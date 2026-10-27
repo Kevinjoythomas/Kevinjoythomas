@@ -1,46 +1,63 @@
-# Kevin Joy Thomas
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Kevin Joy Thomas: AI engineer and independent researcher" src="assets/header-light.svg" width="100%">
+</picture>
 
-AI engineer and independent researcher in Hyderabad, India. I build LLM systems that have to be right, not just fluent: medical question answering, retrieval over technical documents, and the evaluation that tells you whether either one actually works.
+<p align="center">
+  <a href="https://kevinjoythomas.github.io"><img src="https://img.shields.io/badge/Homepage-kevinjoythomas.github.io-0969da?style=flat-square&logo=githubpages&logoColor=white" alt="Homepage"></a>
+  <a href="https://www.linkedin.com/in/kevin-joy-thomas-0aa399271/"><img src="https://img.shields.io/badge/LinkedIn-Kevin_Joy_Thomas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kevinjoythomas2004@gmail.com"><img src="https://img.shields.io/badge/Email-kevinjoythomas2004-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/kevinjoythomas7"><img src="https://img.shields.io/badge/LeetCode-kevinjoythomas7-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://kaggle.com/kevinjoythomas"><img src="https://img.shields.io/badge/Kaggle-kevinjoythomas-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/kevin-joy-thomas-0aa399271/) · [Email](mailto:kevinjoythomas2004@gmail.com) · [LeetCode](https://leetcode.com/u/kevinjoythomas7) · [Codeforces](https://codeforces.com/profile/kevinjoythomas) · [Kaggle](https://kaggle.com/kevinjoythomas)
+I build LLM systems that have to be right, not just fluent: medical question answering, retrieval over technical documents, and the evaluations that show whether either one actually works.
 
-## Research
+### Research
 
-- **Saying "See a Doctor" Is Not Triage: Keyword Safety Rubrics Miss Under-Triage in Models Fine-Tuned on Online Consultations.** Preprint, November 2026. A keyword safety check that agrees with a blinded clinical judge for Llama-3-8B-Instruct stops measuring triage once the model is fine-tuned on doctor-patient dialogue. The benchmark, every judgment and all code will be released with the preprint.
-- **OpenHealth: A Triage Safety Gate for a Laptop-Run Medical Question-Answering System.** In preparation. A pre-generation emergency check for a local medical assistant that runs on a 4 GB laptop GPU.
+<p>
+<a href="https://kevinjoythomas.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/r-seedoctor-dark.svg"><img alt="Saying See a Doctor Is Not Triage, preprint November 2026" src="assets/r-seedoctor-light.svg" width="100%"></picture></a>
+<a href="https://github.com/Kevinjoythomas/OpenHealth"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/r-openhealth-dark.svg"><img alt="OpenHealth triage safety gate, in preparation" src="assets/r-openhealth-light.svg" width="100%"></picture></a>
+</p>
 
-Interests: LLM evaluation and measurement validity, medical AI safety, retrieval-augmented generation, efficient on-device models.
+### Selected work
 
-## Selected projects
+<p>
+<a href="https://github.com/Kevinjoythomas/OpenHealth"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-openhealth-dark.svg"><img alt="OpenHealth" src="assets/p-openhealth-light.svg" width="49%"></picture></a>
+<a href="https://github.com/Kevinjoythomas/asme-rag-harness"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-asme-dark.svg"><img alt="asme-rag-harness" src="assets/p-asme-light.svg" width="49%"></picture></a>
+<a href="https://github.com/Kevinjoythomas/Kubernetes-Store-Provisioning-Platform"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-k8s-dark.svg"><img alt="Store provisioning on Kubernetes" src="assets/p-k8s-light.svg" width="49%"></picture></a>
+<a href="https://github.com/Kevinjoythomas/Network-Security-Pipeline"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-netsec-dark.svg"><img alt="Network security pipeline" src="assets/p-netsec-light.svg" width="49%"></picture></a>
+<a href="https://github.com/Kevinjoythomas/Person-Reidentification-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-reid-dark.svg"><img alt="Person re-identification" src="assets/p-reid-light.svg" width="49%"></picture></a>
+<a href="https://github.com/Kevinjoythomas/Unattended-Baggage-Detection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-baggage-dark.svg"><img alt="Unattended baggage detection" src="assets/p-baggage-light.svg" width="49%"></picture></a>
+</p>
 
-| Project | What it is |
-|---|---|
-| [OpenHealth](https://github.com/Kevinjoythomas/OpenHealth) | Medical question-answering platform: QLoRA-tuned Llama-3-8B, hybrid BM25 + dense retrieval, Flask microservices |
-| [asme-rag-harness](https://github.com/Kevinjoythomas/asme-rag-harness) | Retrieval-evaluation harness for engineering standards: clause-level chunks, BM25 + dense search, abstention |
-| [Kubernetes-Store-Provisioning-Platform](https://github.com/Kevinjoythomas/Kubernetes-Store-Provisioning-Platform) | Kubernetes platform that provisions isolated WooCommerce stores on demand with a custom resource, an operator and Helm |
-| [Network-Security-Pipeline](https://github.com/Kevinjoythomas/Network-Security-Pipeline) | End-to-end MLOps pipeline for phishing-site detection: drift checks, MLflow, FastAPI, AWS CI/CD |
-| [Person-Reidentification-System](https://github.com/Kevinjoythomas/Person-Reidentification-System) | Finds when a person first and last appears on each camera, using ResNet50 re-identification embeddings |
-| [Unattended-Baggage-Detection](https://github.com/Kevinjoythomas/Unattended-Baggage-Detection) | Flags unattended bags in video by tracking people and bags with YOLOv8 and Deep SORT |
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://github.com/Kevinjoythomas/OpenHealth"><img src="https://raw.githubusercontent.com/Kevinjoythomas/OpenHealth/main/website/static/repo_images/chatbot.png" alt="OpenHealth chat interface"></a><br><sub>OpenHealth chat interface</sub></td>
+<td width="33%" align="center"><a href="https://github.com/Kevinjoythomas/Unattended-Baggage-Detection"><img src="https://raw.githubusercontent.com/Kevinjoythomas/Unattended-Baggage-Detection/main/img.png" alt="Unattended baggage detection"></a><br><sub>Unattended baggage flagged in video</sub></td>
+<td width="33%" align="center"><a href="https://github.com/Kevinjoythomas/Stroke-Prediction-Pipeline"><img src="https://raw.githubusercontent.com/Kevinjoythomas/Stroke-Prediction-Pipeline/main/website.png" alt="Stroke prediction web app"></a><br><sub>Stroke-risk app from an MLOps pipeline</sub></td>
+</tr>
+</table>
 
-## Experience
+### Experience
 
-- **AI Engineer**, DeepMechanix · Jun 2026 to present
-- **Software Engineer, AI/ML**, United Field Services · Oct 2025 to present
-- **Software Engineering Intern**, Google (Workspace Search) · Jun to Aug 2025
-- **Machine Learning Intern**, mokSa.ai · Feb to May 2025
-- **Computer Vision Intern (founding engineer)**, Envideo Technology · 2024 to 2025
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
+  <img alt="Experience: DeepMechanix, United Field Services, Google, mokSa.ai, Envideo Technology" src="assets/experience-light.svg" width="100%">
+</picture>
 
-## Recognition
+### Recognition
 
-- Amazon ML Challenge: rank 89 of 74,850
-- Microsoft hackathon: top 8 of 500 teams
-- CBIT national hackathon: top 10 of 350 teams
-- Flipkart GRiD 5.0: qualifier
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/recognition-dark.svg">
+  <img alt="Amazon ML Challenge rank 89 of 74,850; Microsoft hackathon top 8 of 500; CBIT national hackathon top 10 of 350; Flipkart GRiD 5.0 qualifier" src="assets/recognition-light.svg" width="100%">
+</picture>
 
-## Education
+### Toolkit
 
-B.E. in Information Technology, Maturi Venkata Subba Rao (MVSR) Engineering College, Hyderabad, 2022 to 2026.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Ccpp%2Cpytorch%2Ctensorflow%2Copencv%2Cdocker%2Ckubernetes%2Caws%2Cterraform%2Cflask%2Cfastapi%2Creact%2Cpostgres%2Cmongodb%2Clinux%2Cgit&theme=dark&perline=16">
+  <img alt="Python, C++, PyTorch, TensorFlow, OpenCV, Docker, Kubernetes, AWS, Terraform, Flask, FastAPI, React, PostgreSQL, MongoDB, Linux, Git" src="https://skillicons.dev/icons?i=py%2Ccpp%2Cpytorch%2Ctensorflow%2Copencv%2Cdocker%2Ckubernetes%2Caws%2Cterraform%2Cflask%2Cfastapi%2Creact%2Cpostgres%2Cmongodb%2Clinux%2Cgit&theme=light&perline=16">
+</picture>
 
-## Tools
-
-Python, C++, C, Java · PyTorch, TensorFlow, Hugging Face, LangChain, Ollama, scikit-learn · OpenCV, YOLO, OpenVINO, ONNX · MLflow, DVC, Airflow, GitHub Actions · Docker, Kubernetes, AWS, Terraform · Flask, FastAPI, React, Node.js · PostgreSQL, MySQL, MongoDB, Neo4j · Linux, Git
+<sub>B.E. in Information Technology, Maturi Venkata Subba Rao (MVSR) Engineering College, Hyderabad, 2022 to 2026.</sub>
