@@ -3,7 +3,7 @@
   <img alt="Kevin Joy Thomas, AI engineer" src="assets/header-light.svg" width="100%">
 </picture>
 
-<p align="center"><img src="assets/speed-watches.jpg" width="320" alt="Safety rubric: the fine-tuned model is 6x safer now. Me, holding 13.5K blinded judgments: watches."></p>
+<p align="center"><img src="assets/speed-watches.jpg" width="320" alt="Safety rubric: the fine-tuned model is 6x safer now. Me, holding 13K blinded judgments: watches."></p>
 
 <p>
   <a href="https://www.linkedin.com/in/kevin-joy-thomas/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -27,7 +27,7 @@ I build LLM systems that have to be right, not just fluent: extraction pipelines
 | Company | Role | Where | When |
 |---|---|---|---|
 | DeepMechanix | Founding AI Engineer | San Jose, remote | May 2026 to present |
-| United Field Services | AI Specialist, contract | Los Angeles, remote | Oct 2025 to present |
+| United Field Services | AI Engineer (AI Specialist), contract | Los Angeles, remote | Oct 2025 to present |
 | Google | Software Engineering Intern, Workspace Search | Bangalore | Jun to Aug 2025 |
 | Moksa.AI | Machine Learning Intern | Hyderabad | Feb to May 2025 |
 | Envideo Technologies | Founding AI Engineer (Intern) | Remote | Feb 2024 to Mar 2025 |
