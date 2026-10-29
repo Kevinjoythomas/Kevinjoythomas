@@ -4,10 +4,10 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kevin-joy-thomas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36"></a>
-  <a href="https://huggingface.co/kevinjoythomas"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" height="36"></a>
-  <a href="https://leetcode.com/u/kevinjoythomas7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="36"></a>
-  <a href="mailto:kevinjoythomas2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="36"></a>
+<a href="https://www.linkedin.com/in/kevin-joy-thomas/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" width="200" alt="LinkedIn: kevin-joy-thomas"></picture></a>
+<a href="https://huggingface.co/kevinjoythomas"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-huggingface-dark.svg"><img src="assets/link-huggingface-light.svg" width="200" alt="Hugging Face: kevinjoythomas"></picture></a>
+<a href="https://leetcode.com/u/kevinjoythomas7/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-leetcode-dark.svg"><img src="assets/link-leetcode-light.svg" width="200" alt="LeetCode: kevinjoythomas7, 759 solved, rating 1,758"></picture></a>
+<a href="mailto:kevinjoythomas2004@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img src="assets/link-email-light.svg" width="200" alt="Email: kevinjoythomas2004@gmail.com"></picture></a>
 </p>
 
 I build LLM systems that have to be right, not just fluent: extraction pipelines that read engineering documents into structured specs, agents that research with citations, a medical assistant with a safety gate in front of the model. I spend as much time on the evaluation as on the system, because that is how you find out it was wrong before a user does.
@@ -21,7 +21,7 @@ I build LLM systems that have to be right, not just fluent: extraction pipelines
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg">
-  <img alt="What I am building right now: document AI for engineering at DeepMechanix; a phone agent and a lead pipeline at United Field Services; a medical assistant with a safety gate and a paper on the side." src="assets/now-light.svg" width="100%">
+  <img alt="What I am building right now. DeepMechanix: document AI for engineering, pipelines and agents that read drawings and datasheets into structured specs with a citation behind every value, and a research engine that cites every number. United Field Services: a phone agent for contractor and client calls, and a daily pipeline that finds and verifies leads across all 50 states. On the side: a medical assistant with a safety gate in front of the model, and a paper on why the usual safety check stops working after fine-tuning." src="assets/now-light.svg" width="100%">
 </picture>
 
 ## Research
@@ -36,12 +36,14 @@ I build LLM systems that have to be right, not just fluent: extraction pipelines
 ## Selected work
 
 <p align="center">
-  <a href="https://github.com/Kevinjoythomas/OpenHealth"><img src="https://img.shields.io/badge/OpenHealth-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="OpenHealth" height="32"></a>
-  <a href="https://github.com/Kevinjoythomas/asme-rag-harness"><img src="https://img.shields.io/badge/asme--rag--harness-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="asme-rag-harness" height="32"></a>
-  <a href="https://github.com/Kevinjoythomas/Network-Security-Pipeline"><img src="https://img.shields.io/badge/Network--Security--Pipeline-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Network-Security-Pipeline" height="32"></a>
-  <a href="https://github.com/Kevinjoythomas/Person-Reidentification-System"><img src="https://img.shields.io/badge/Person--Reidentification--System-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Person-Reidentification-System" height="32"></a>
-  <a href="https://github.com/Kevinjoythomas/Unattended-Baggage-Detection"><img src="https://img.shields.io/badge/Unattended--Baggage--Detection-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Unattended-Baggage-Detection" height="32"></a>
-  <a href="https://github.com/Kevinjoythomas/Kubernetes-Store-Provisioning-Platform"><img src="https://img.shields.io/badge/Kubernetes--Store--Provisioning--Platform-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Kubernetes-Store-Provisioning-Platform" height="32"></a>
+<a href="https://github.com/Kevinjoythomas/OpenHealth"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-openhealth-dark.svg"><img src="assets/repo-openhealth-light.svg" width="270" alt="OpenHealth"></picture></a>
+<a href="https://github.com/Kevinjoythomas/asme-rag-harness"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-asme-rag-harness-dark.svg"><img src="assets/repo-asme-rag-harness-light.svg" width="270" alt="asme-rag-harness"></picture></a>
+<a href="https://github.com/Kevinjoythomas/Network-Security-Pipeline"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-network-security-pipeline-dark.svg"><img src="assets/repo-network-security-pipeline-light.svg" width="270" alt="Network-Security-Pipeline"></picture></a>
+</p>
+<p align="center">
+<a href="https://github.com/Kevinjoythomas/Person-Reidentification-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-person-reid-dark.svg"><img src="assets/repo-person-reid-light.svg" width="270" alt="Person-Reidentification-System"></picture></a>
+<a href="https://github.com/Kevinjoythomas/Unattended-Baggage-Detection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-unattended-baggage-dark.svg"><img src="assets/repo-unattended-baggage-light.svg" width="270" alt="Unattended-Baggage-Detection"></picture></a>
+<a href="https://github.com/Kevinjoythomas/Kubernetes-Store-Provisioning-Platform"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repo-k8s-store-dark.svg"><img src="assets/repo-k8s-store-light.svg" width="270" alt="Kubernetes-Store-Provisioning-Platform"></picture></a>
 </p>
 
 ## Recognition
