@@ -3,7 +3,7 @@
   <img alt="Kevin Joy Thomas, AI engineer" src="assets/header-light.svg" width="100%">
 </picture>
 
-<p align="center"><img src="assets/speed-watches.jpg" width="440" alt="Safety rubric: the fine-tuned model is 6.7x safer now. Me, holding 13.5K blinded judgments: watches."></p>
+<p align="center"><img src="assets/speed-watches.jpg" width="320" alt="Safety rubric: the fine-tuned model is 6x safer now. Me, holding 13.5K blinded judgments: watches."></p>
 
 <p>
   <a href="https://www.linkedin.com/in/kevin-joy-thomas/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
