@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="It works on my prompt is not an eval">
+  <defs>
+    <style>
+      .f { font-family: 'Geist', 'Geist Sans', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .m { font-family: 'Geist Mono', 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+  <rect width="1200" height="120" fill="#FFFFFF"/>
+  <rect x="0.5" y="0.5" width="1199" height="119" fill="none" stroke="#EAEAEA"/>
+  <text x="56" y="44" class="m" font-size="13" fill="#787774" letter-spacing="0.4">PM, FRIDAY 6 PM</text>
+  <text x="56" y="72" class="f" font-size="20" fill="#111111">"The demo worked, ship it."</text>
+  <text x="640" y="44" class="m" font-size="13" fill="#787774" letter-spacing="0.4">ME</text>
+  <text x="640" y="72" class="f" font-size="20" fill="#111111">"On how many documents, and who checked the answers?"</text>
+  <rect x="56" y="92" width="36" height="4" fill="#D9A400"/>
+</svg>

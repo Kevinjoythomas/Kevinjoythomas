@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="What I am building right now">
+  <defs>
+    <style>
+      .f { font-family: 'Geist', 'Geist Sans', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .m { font-family: 'Geist Mono', 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+  <rect width="1200" height="250" fill="#F7F6F3"/>
+  <rect x="0.5" y="0.5" width="1199" height="249" fill="none" stroke="#EAEAEA"/>
+  <text x="56" y="44" class="m" font-size="13" fill="#787774" letter-spacing="0.4">WHAT I AM BUILDING RIGHT NOW</text>
+
+  <rect x="56" y="68" width="344" height="150" fill="#FFFFFF" stroke="#EAEAEA"/>
+  <rect x="56" y="68" width="4" height="150" fill="#D9A400"/>
+  <text x="80" y="102" class="f" font-size="18" font-weight="600" fill="#111111">DeepMechanix</text>
+  <text x="80" y="130" class="f" font-size="14" fill="#2F3437">Document AI for engineering: pipelines and</text>
+  <text x="80" y="150" class="f" font-size="14" fill="#2F3437">agents that read drawings and datasheets into</text>
+  <text x="80" y="170" class="f" font-size="14" fill="#2F3437">structured specs, a citation behind every value,</text>
+  <text x="80" y="190" class="f" font-size="14" fill="#2F3437">and a research engine that cites every number.</text>
+
+  <rect x="428" y="68" width="344" height="150" fill="#FFFFFF" stroke="#EAEAEA"/>
+  <rect x="428" y="68" width="4" height="150" fill="#D9A400"/>
+  <text x="452" y="102" class="f" font-size="18" font-weight="600" fill="#111111">United Field Services</text>
+  <text x="452" y="130" class="f" font-size="14" fill="#2F3437">A phone agent that takes contractor and client</text>
+  <text x="452" y="150" class="f" font-size="14" fill="#2F3437">calls, and a daily pipeline that finds and</text>
+  <text x="452" y="170" class="f" font-size="14" fill="#2F3437">verifies leads across all 50 states.</text>
+
+  <rect x="800" y="68" width="344" height="150" fill="#FFFFFF" stroke="#EAEAEA"/>
+  <rect x="800" y="68" width="4" height="150" fill="#D9A400"/>
+  <text x="824" y="102" class="f" font-size="18" font-weight="600" fill="#111111">On the side</text>
+  <text x="824" y="130" class="f" font-size="14" fill="#2F3437">A medical assistant with a safety gate in front</text>
+  <text x="824" y="150" class="f" font-size="14" fill="#2F3437">of the model, and a paper on why the usual</text>
+  <text x="824" y="170" class="f" font-size="14" fill="#2F3437">safety check stops working after fine-tuning.</text>
+</svg>
