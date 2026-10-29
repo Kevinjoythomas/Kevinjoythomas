@@ -40,6 +40,15 @@ I build LLM systems that have to be right, not just fluent: extraction pipelines
   <img alt="Selected work: OpenHealth, private medical assistant with a fine-tuned Llama 3 8B and hybrid retrieval with citations; asme-rag-harness, clause-level retrieval evaluation with abstention; Network-Security-Pipeline, MLOps pipeline for phishing-site detection; Person-Reidentification-System, cross-camera re-identification API; Unattended-Baggage-Detection, YOLOv8 and Deep SORT; Kubernetes-Store-Provisioning-Platform, an operator that provisions isolated store environments." src="assets/work-light.svg" width="100%">
 </picture>
 
+<p align="center">
+  <a href="https://github.com/Kevinjoythomas/OpenHealth"><img src="https://img.shields.io/badge/OpenHealth-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="OpenHealth" height="32"></a>
+  <a href="https://github.com/Kevinjoythomas/asme-rag-harness"><img src="https://img.shields.io/badge/asme--rag--harness-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="asme-rag-harness" height="32"></a>
+  <a href="https://github.com/Kevinjoythomas/Network-Security-Pipeline"><img src="https://img.shields.io/badge/Network--Security--Pipeline-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Network-Security-Pipeline" height="32"></a>
+  <a href="https://github.com/Kevinjoythomas/Person-Reidentification-System"><img src="https://img.shields.io/badge/Person--Reidentification--System-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Person-Reidentification-System" height="32"></a>
+  <a href="https://github.com/Kevinjoythomas/Unattended-Baggage-Detection"><img src="https://img.shields.io/badge/Unattended--Baggage--Detection-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Unattended-Baggage-Detection" height="32"></a>
+  <a href="https://github.com/Kevinjoythomas/Kubernetes-Store-Provisioning-Platform"><img src="https://img.shields.io/badge/Kubernetes--Store--Provisioning--Platform-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Kubernetes-Store-Provisioning-Platform" height="32"></a>
+</p>
+
 ## Recognition
 
 - 89th of 74,829 participants, Amazon ML Challenge 2024
