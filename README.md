@@ -24,14 +24,14 @@ I build LLM systems that have to be right, not just fluent: extraction pipelines
   <img alt="What I am building right now. DeepMechanix: document AI for engineering, pipelines and agents that read drawings and datasheets into structured specs with a citation behind every value, and a research engine that cites every number. United Field Services: a phone agent for contractor and client calls, and a daily pipeline that finds and verifies leads across all 50 states. On the side: a medical assistant with a safety gate in front of the model, and a paper on why the usual safety check stops working after fine-tuning." src="assets/now-light.svg" width="100%">
 </picture>
 
+<p align="center"><img src="assets/speed-watches.jpg" width="320" alt="Safety rubric: the fine-tuned model is 6x safer now. Me, holding 13K blinded judgments: watches."></p>
+
 ## Research
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/research-dark.svg">
   <img alt="Research: Saying See a Doctor Is Not Triage, sole author: a keyword safety rubric rated a QLoRA-fine-tuned Llama 3 8B 6.7x safer on emergencies while blinded judges found no change; agreement fell from Cohen's kappa 0.61 to 0.03, replicated on 273 physician-labeled HealthBench conversations. OpenHealth triage gate, first author: 40 red-flag rules plus a zero-shot Gemma 3 4B check catch 92% of emergencies at 92% specificity, 2.9 s per message on a 4 GB laptop GPU." src="assets/research-light.svg" width="100%">
 </picture>
-
-<p align="center"><img src="assets/speed-watches.jpg" width="320" alt="Safety rubric: the fine-tuned model is 6x safer now. Me, holding 13K blinded judgments: watches."></p>
 
 ## Selected work
 
