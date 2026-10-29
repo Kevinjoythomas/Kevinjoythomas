@@ -30,7 +30,7 @@ I build LLM systems that have to be right, not just fluent: extraction pipelines
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/research-dark.svg">
-  <img alt="Research: Saying See a Doctor Is Not Triage, sole author, under review: a keyword safety rubric rated a QLoRA-fine-tuned Llama 3 8B 6.7x safer on emergencies while blinded judges found no change; agreement fell from Cohen's kappa 0.61 to 0.03, replicated on 273 physician-labeled HealthBench conversations. OpenHealth triage gate, first author, in preparation: 40 red-flag rules plus a zero-shot Gemma 3 4B check catch 92% of emergencies at 92% specificity, 2.9 s per message on a 4 GB laptop GPU." src="assets/research-light.svg" width="100%">
+  <img alt="Research: Saying See a Doctor Is Not Triage, sole author: a keyword safety rubric rated a QLoRA-fine-tuned Llama 3 8B 6.7x safer on emergencies while blinded judges found no change; agreement fell from Cohen's kappa 0.61 to 0.03, replicated on 273 physician-labeled HealthBench conversations. OpenHealth triage gate, first author: 40 red-flag rules plus a zero-shot Gemma 3 4B check catch 92% of emergencies at 92% specificity, 2.9 s per message on a 4 GB laptop GPU." src="assets/research-light.svg" width="100%">
 </picture>
 
 ## Selected work
