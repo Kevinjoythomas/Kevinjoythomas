@@ -3,8 +3,6 @@
   <img alt="Kevin Joy Thomas, AI engineer" src="assets/header-light.svg" width="100%">
 </picture>
 
-<p align="center"><img src="assets/speed-watches.jpg" width="320" alt="Safety rubric: the fine-tuned model is 6x safer now. Me, holding 13K blinded judgments: watches."></p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-joy-thomas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36"></a>
   <a href="https://huggingface.co/kevinjoythomas"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" height="36"></a>
@@ -32,6 +30,8 @@ I build LLM systems that have to be right, not just fluent: extraction pipelines
   <source media="(prefers-color-scheme: dark)" srcset="assets/research-dark.svg">
   <img alt="Research: Saying See a Doctor Is Not Triage, sole author: a keyword safety rubric rated a QLoRA-fine-tuned Llama 3 8B 6.7x safer on emergencies while blinded judges found no change; agreement fell from Cohen's kappa 0.61 to 0.03, replicated on 273 physician-labeled HealthBench conversations. OpenHealth triage gate, first author: 40 red-flag rules plus a zero-shot Gemma 3 4B check catch 92% of emergencies at 92% specificity, 2.9 s per message on a 4 GB laptop GPU." src="assets/research-light.svg" width="100%">
 </picture>
+
+<p align="center"><img src="assets/speed-watches.jpg" width="320" alt="Safety rubric: the fine-tuned model is 6x safer now. Me, holding 13K blinded judgments: watches."></p>
 
 ## Selected work
 
