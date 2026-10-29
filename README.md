@@ -8,7 +8,12 @@
   <img alt="PM, Friday 6 pm: the demo worked, ship it. Me: on how many documents, and who checked the answers?" src="assets/note-light.svg" width="100%">
 </picture>
 
-[Resume](https://drive.google.com/file/d/1lCiF9b8M5p-fDf6Ri24wTQ1jVWCUmWJn/view) · [LinkedIn](https://www.linkedin.com/in/kevin-joy-thomas/) · [LeetCode](https://leetcode.com/u/kevinjoythomas7/) · [Hugging Face](https://huggingface.co/kevinjoythomas) · kevinjoythomas2004@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/kevin-joy-thomas/"><img src="https://img.shields.io/badge/LinkedIn-kevin--joy--thomas-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/kevinjoythomas"><img src="https://img.shields.io/badge/Hugging%20Face-fine--tuned%20model%20and%20dataset-111111?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
+  <a href="https://leetcode.com/u/kevinjoythomas7/"><img src="https://img.shields.io/badge/LeetCode-759%20solved%20%C2%B7%20rating%201%2C758-111111?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="mailto:kevinjoythomas2004@gmail.com"><img src="https://img.shields.io/badge/Email-kevinjoythomas2004-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 I build LLM systems that have to be right, not just fluent: extraction pipelines that read engineering documents into structured specs, agents that research with citations, a medical assistant with a safety gate in front of the model. I spend as much time on the evaluation as on the system, because that is how you find out it was wrong before a user does.
 
