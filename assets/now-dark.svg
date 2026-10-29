@@ -1,33 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="What I am building right now">
-  <defs>
-    <style>
-      .f { font-family: 'Geist', 'Geist Sans', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
-      .m { font-family: 'Geist Mono', 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace; }
-    </style>
-  </defs>
-  <rect width="1200" height="250" fill="#141414"/>
-  <rect x="0.5" y="0.5" width="1199" height="249" fill="none" stroke="#2A2A2A"/>
-  <text x="56" y="44" class="m" font-size="13" fill="#8A8883" letter-spacing="0.4">WHAT I AM BUILDING RIGHT NOW</text>
-
-  <rect x="56" y="68" width="344" height="150" fill="#1B1B1B" stroke="#2A2A2A"/>
-  <rect x="56" y="68" width="4" height="150" fill="#E6B422"/>
-  <text x="80" y="102" class="f" font-size="18" font-weight="600" fill="#F4F3F0">DeepMechanix</text>
-  <text x="80" y="130" class="f" font-size="14" fill="#C9C7C1">Document AI for engineering: pipelines and</text>
-  <text x="80" y="150" class="f" font-size="14" fill="#C9C7C1">agents that read drawings and datasheets into</text>
-  <text x="80" y="170" class="f" font-size="14" fill="#C9C7C1">structured specs, a citation behind every value,</text>
-  <text x="80" y="190" class="f" font-size="14" fill="#C9C7C1">and a research engine that cites every number.</text>
-
-  <rect x="428" y="68" width="344" height="150" fill="#1B1B1B" stroke="#2A2A2A"/>
-  <rect x="428" y="68" width="4" height="150" fill="#E6B422"/>
-  <text x="452" y="102" class="f" font-size="18" font-weight="600" fill="#F4F3F0">United Field Services</text>
-  <text x="452" y="130" class="f" font-size="14" fill="#C9C7C1">A phone agent that takes contractor and client</text>
-  <text x="452" y="150" class="f" font-size="14" fill="#C9C7C1">calls, and a daily pipeline that finds and</text>
-  <text x="452" y="170" class="f" font-size="14" fill="#C9C7C1">verifies leads across all 50 states.</text>
-
-  <rect x="800" y="68" width="344" height="150" fill="#1B1B1B" stroke="#2A2A2A"/>
-  <rect x="800" y="68" width="4" height="150" fill="#E6B422"/>
-  <text x="824" y="102" class="f" font-size="18" font-weight="600" fill="#F4F3F0">On the side</text>
-  <text x="824" y="130" class="f" font-size="14" fill="#C9C7C1">A medical assistant with a safety gate in front</text>
-  <text x="824" y="150" class="f" font-size="14" fill="#C9C7C1">of the model, and a paper on why the usual</text>
-  <text x="824" y="170" class="f" font-size="14" fill="#C9C7C1">safety check stops working after fine-tuning.</text>
+<g font-family="'Inter', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-style="normal">
+<rect x="0.5" y="0.5" width="1199" height="249" rx="13.2" fill="#262930"/>
+<path d="M13.2 0.5 H1186.8 A12.7 12.7 0 0 1 1199.5 13.2 V49.5 H0.5 V13.2 A12.7 12.7 0 0 1 13.2 0.5 Z" fill="#2e323a"/>
+<line x1="1" y1="50.5" x2="1199" y2="50.5" stroke="#33363b" stroke-width="1"/>
+<text x="22" y="30.29" font-size="15.4" font-weight="700" fill="#e8e8e8">What I am building right now</text>
+<text x="22" y="88.9" font-size="14.3" font-weight="700" fill="#e8e8e8">DeepMechanix</text>
+<text x="227.4" y="78.89" font-size="14.3" font-weight="400" fill="#c7c7c7">Document AI for engineering: pipelines and agents that read drawings and datasheets into structured specs, with a</text>
+<text x="227.4" y="98.91" font-size="14.3" font-weight="400" fill="#c7c7c7">citation behind every value, and a research engine that cites every number.</text>
+<rect x="1066.5" y="71.97" width="74.14" height="23.55" rx="11.78" fill="#e6faf2" stroke="#a7e3c8"/>
+<g transform="translate(1075.8 77.15) scale(0.55)" fill="none" stroke="#15803d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="m9 11 3 3L22 4"/></g>
+<text x="1094.5" y="88.11" font-size="12.1" font-weight="600" fill="#15803d">Active</text>
+<line x1="1" y1="116.5" x2="1199" y2="116.5" stroke="#33363b" stroke-width="1"/>
+<text x="22" y="155.4" font-size="14.3" font-weight="700" fill="#e8e8e8">United Field Services</text>
+<text x="227.4" y="155.4" font-size="14.3" font-weight="400" fill="#c7c7c7">A phone agent that takes contractor and client calls, and a daily pipeline that finds and verifies leads across all 50 states.</text>
+<rect x="1066.5" y="138.47" width="74.14" height="23.55" rx="11.78" fill="#e6faf2" stroke="#a7e3c8"/>
+<g transform="translate(1075.8 143.65) scale(0.55)" fill="none" stroke="#15803d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="m9 11 3 3L22 4"/></g>
+<text x="1094.5" y="154.61" font-size="12.1" font-weight="600" fill="#15803d">Active</text>
+<line x1="1" y1="183.5" x2="1199" y2="183.5" stroke="#33363b" stroke-width="1"/>
+<text x="22" y="221.9" font-size="14.3" font-weight="700" fill="#e8e8e8">On the side</text>
+<text x="227.4" y="211.89" font-size="14.3" font-weight="400" fill="#c7c7c7">A medical assistant with a safety gate in front of the model, and a paper on why the usual safety check stops working</text>
+<text x="227.4" y="231.91" font-size="14.3" font-weight="400" fill="#c7c7c7">after fine-tuning.</text>
+<rect x="1066.5" y="204.97" width="91.62" height="23.55" rx="11.78" fill="#e6eefb" stroke="#b3cef5"/>
+<g transform="translate(1075.8 210.15) scale(0.55)" fill="none" stroke="#1c4f9c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></g>
+<text x="1094.5" y="221.11" font-size="12.1" font-weight="600" fill="#1c4f9c">Research</text>
+<rect x="0.5" y="0.5" width="1199" height="249" rx="13.2" fill="none" stroke="#45484d" stroke-width="1"/>
+</g>
 </svg>

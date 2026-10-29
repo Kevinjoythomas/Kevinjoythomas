@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="483" viewBox="0 0 1200 483" role="img" aria-label="Selected work: OpenHealth: Private medical assistant: QLoRA-fine-tuned Llama 3 8B, hybrid keyword and semantic retrieval over clinical guidelines with citations, five services on Docker Compose. Measured: retrieval about 0.1 s warm, 4.2 s per answer on a T4. asme-rag-harness: Clause-level retrieval evaluation over an engineering code, with abstention and a citation graph. Network-Security-Pipeline: MLOps pipeline for phishing-site detection: schema and drift checks, MLflow tracking, a FastAPI service, Docker image shipped to AWS by CI. Person-Reidentification-System: Cross-camera person re-identification API on torchreid embeddings, served with Flask. Unattended-Baggage-Detection: Flags unattended bags in video by tracking people and bags with YOLOv8 and Deep SORT. Kubernetes-Store-Provisioning-Platform: A Kubernetes operator that provisions isolated store environments: Helm, network policies, resource quotas.">
+<g font-family="'Inter', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-style="normal">
+<rect x="0.5" y="0.5" width="1199" height="481.8" rx="14.4" fill="#ffffff"/>
+<path d="M14.4 0.5 H1185.6 A13.9 13.9 0 0 1 1199.5 14.4 V46.2 H0.5 V14.4 A13.9 13.9 0 0 1 14.4 0.5 Z" fill="#f2efea"/>
+<line x1="1" y1="46.5" x2="1199" y2="46.5" stroke="#eeece8" stroke-width="1"/>
+<text x="28.8" y="27.85" font-size="13.2" font-weight="600" fill="#7a7577" letter-spacing="0.79">REPOSITORY</text>
+<text x="391.94" y="27.85" font-size="13.2" font-weight="600" fill="#7a7577" letter-spacing="0.79">WHAT IT IS</text>
+<text x="28.8" y="104.93" font-size="16.2" font-weight="700" fill="#1f1f1f">OpenHealth</text>
+<text x="391.94" y="81.32" font-size="15.6" font-weight="400" fill="#564f52">Private medical assistant: QLoRA-fine-tuned Llama 3 8B, hybrid keyword and semantic retrieval over</text>
+<text x="391.94" y="104.72" font-size="15.6" font-weight="400" fill="#564f52">clinical guidelines with citations, five services on Docker Compose. Measured: retrieval about 0.1 s warm,</text>
+<text x="391.94" y="128.12" font-size="15.6" font-weight="400" fill="#564f52">4.2 s per answer on a T4.</text>
+<line x1="1" y1="150.5" x2="1199" y2="150.5" stroke="#eeece8" stroke-width="1"/>
+<text x="28.8" y="185.33" font-size="16.2" font-weight="700" fill="#1f1f1f">asme-rag-harness</text>
+<text x="391.94" y="185.12" font-size="15.6" font-weight="400" fill="#564f52">Clause-level retrieval evaluation over an engineering code, with abstention and a citation graph.</text>
+<line x1="1" y1="207.5" x2="1199" y2="207.5" stroke="#eeece8" stroke-width="1"/>
+<text x="28.8" y="254.03" font-size="16.2" font-weight="700" fill="#1f1f1f">Network-Security-Pipeline</text>
+<text x="391.94" y="242.12" font-size="15.6" font-weight="400" fill="#564f52">MLOps pipeline for phishing-site detection: schema and drift checks, MLflow tracking, a FastAPI service,</text>
+<text x="391.94" y="265.52" font-size="15.6" font-weight="400" fill="#564f52">Docker image shipped to AWS by CI.</text>
+<line x1="1" y1="287.5" x2="1199" y2="287.5" stroke="#eeece8" stroke-width="1"/>
+<text x="28.8" y="322.73" font-size="16.2" font-weight="700" fill="#1f1f1f">Person-Reidentification-System</text>
+<text x="391.94" y="322.52" font-size="15.6" font-weight="400" fill="#564f52">Cross-camera person re-identification API on torchreid embeddings, served with Flask.</text>
+<line x1="1" y1="344.5" x2="1199" y2="344.5" stroke="#eeece8" stroke-width="1"/>
+<text x="28.8" y="379.73" font-size="16.2" font-weight="700" fill="#1f1f1f">Unattended-Baggage-Detection</text>
+<text x="391.94" y="379.52" font-size="15.6" font-weight="400" fill="#564f52">Flags unattended bags in video by tracking people and bags with YOLOv8 and Deep SORT.</text>
+<line x1="1" y1="401.5" x2="1199" y2="401.5" stroke="#eeece8" stroke-width="1"/>
+<text x="28.8" y="448.43" font-size="16.2" font-weight="700" fill="#1f1f1f">Kubernetes-Store-Provisioning-Platform</text>
+<text x="391.94" y="436.52" font-size="15.6" font-weight="400" fill="#564f52">A Kubernetes operator that provisions isolated store environments: Helm, network policies, resource</text>
+<text x="391.94" y="459.92" font-size="15.6" font-weight="400" fill="#564f52">quotas.</text>
+<rect x="0.5" y="0.5" width="1199" height="481.8" rx="14.4" fill="none" stroke="#c2bbb0" stroke-width="1"/>
+</g>
+</svg>

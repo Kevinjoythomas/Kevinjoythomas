@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="278" viewBox="0 0 1200 278" role="img" aria-label="Research: Saying “See a Doctor” Is Not Triage, Sole author, Under review: A keyword safety rubric rated a QLoRA-fine-tuned Llama 3 8B 6.7x safer on emergencies while blinded judges found no change; rubric-judge agreement fell from Cohen's kappa 0.61 to 0.03, replicated on 273 physician-labeled HealthBench conversations. OpenHealth triage gate, First author, In preparation: A pre-generation gate (40 red-flag rules plus a zero-shot Gemma 3 4B check) that catches 92% of emergencies at 92% specificity, 2.9 s per message on a 4 GB laptop GPU.">
+<g font-family="'Inter', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-style="normal">
+<rect x="0.5" y="0.5" width="1199" height="277.2" rx="14.4" fill="#ffffff"/>
+<path d="M14.4 0.5 H1185.6 A13.9 13.9 0 0 1 1199.5 14.4 V46.2 H0.5 V14.4 A13.9 13.9 0 0 1 14.4 0.5 Z" fill="#f2efea"/>
+<line x1="1" y1="46.5" x2="1199" y2="46.5" stroke="#eeece8" stroke-width="1"/>
+<text x="28.8" y="27.85" font-size="13.2" font-weight="600" fill="#7a7577" letter-spacing="0.79">PAPER</text>
+<text x="294.27" y="27.85" font-size="13.2" font-weight="600" fill="#7a7577" letter-spacing="0.79">ROLE</text>
+<text x="440.82" y="27.85" font-size="13.2" font-weight="600" fill="#7a7577" letter-spacing="0.79">STATUS</text>
+<text x="608.98" y="27.85" font-size="13.2" font-weight="600" fill="#7a7577" letter-spacing="0.79">FINDING</text>
+<text x="28.8" y="105.29" font-size="16.2" font-weight="700" fill="#1f1f1f">Saying “See a Doctor” Is Not</text>
+<text x="28.8" y="127.97" font-size="16.2" font-weight="700" fill="#1f1f1f">Triage</text>
+<text x="294.27" y="116.42" font-size="15.6" font-weight="400" fill="#564f52">Sole author</text>
+<rect x="441.32" y="98" width="125.72" height="25.6" rx="12.8" fill="#e6eefb" stroke="#b3cef5"/>
+<g transform="translate(451.42 103.6) scale(0.6)" fill="none" stroke="#1c4f9c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></g>
+<text x="471.82" y="115.55" font-size="13.2" font-weight="600" fill="#1c4f9c">Under review</text>
+<text x="608.98" y="81.32" font-size="15.6" font-weight="400" fill="#564f52">A keyword safety rubric rated a QLoRA-fine-tuned Llama 3 8B 6.7x safer on</text>
+<text x="608.98" y="104.72" font-size="15.6" font-weight="400" fill="#564f52">emergencies while blinded judges found no change; rubric-judge agreement</text>
+<text x="608.98" y="128.12" font-size="15.6" font-weight="400" fill="#564f52">fell from Cohen's kappa 0.61 to 0.03, replicated on 273 physician-labeled</text>
+<text x="608.98" y="151.52" font-size="15.6" font-weight="400" fill="#564f52">HealthBench conversations.</text>
+<line x1="1" y1="173.5" x2="1199" y2="173.5" stroke="#eeece8" stroke-width="1"/>
+<text x="28.8" y="232.13" font-size="16.2" font-weight="700" fill="#1f1f1f">OpenHealth triage gate</text>
+<text x="294.27" y="231.92" font-size="15.6" font-weight="400" fill="#564f52">First author</text>
+<rect x="441.32" y="213.5" width="129.86" height="25.6" rx="12.8" fill="#fdf6e3" stroke="#f0e3ba"/>
+<g transform="translate(451.42 219.1) scale(0.6)" fill="none" stroke="#b88a1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></g>
+<text x="471.82" y="231.05" font-size="13.2" font-weight="600" fill="#b88a1e">In preparation</text>
+<text x="608.98" y="208.52" font-size="15.6" font-weight="400" fill="#564f52">A pre-generation gate (40 red-flag rules plus a zero-shot Gemma 3 4B</text>
+<text x="608.98" y="231.92" font-size="15.6" font-weight="400" fill="#564f52">check) that catches 92% of emergencies at 92% specificity, 2.9 s per</text>
+<text x="608.98" y="255.32" font-size="15.6" font-weight="400" fill="#564f52">message on a 4 GB laptop GPU.</text>
+<rect x="0.5" y="0.5" width="1199" height="277.2" rx="14.4" fill="none" stroke="#c2bbb0" stroke-width="1"/>
+</g>
+</svg>
