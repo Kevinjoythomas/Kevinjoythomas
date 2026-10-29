@@ -17,7 +17,11 @@ I build LLM systems that have to be right, not just fluent: extraction pipelines
 | **Moksa.AI** | Machine Learning Intern | Hyderabad | Feb to May 2025 |
 | **Envideo Technologies** | Founding AI Engineer (Intern) | Remote | Feb 2024 to Mar 2025 |
 
-At DeepMechanix: a document-intelligence pipeline that turns engineering packages into cited design specs (93.1% of checked fields correct vs 74.7% for GPT-5.5 alone on held-out vessels), the agentic extraction layer behind it, and a multi-agent research engine that stores every claim with a quote, source URL and confidence band. At UFS: an inbound voice agent on Claude Haiku 4.5 and Deepgram, a vendor-matching ranker measured on 800 held-out jobs (Hit@10 20.1% to 34.1%), and a daily lead pipeline across all 50 US states. At Google: a third-party client search server migrated from Java to an internal C++ framework.
+**What I'm building right now**
+
+- At DeepMechanix, document AI for engineering: pipelines and agents that read drawings and datasheets into structured specs, with a citation behind every value, and a research engine that never states a number without its source.
+- At UFS, a phone agent that takes contractor and client calls, and a daily pipeline that finds and verifies leads across all 50 states.
+- On the side, a medical assistant with a safety gate in front of the model, and a paper on why the usual safety check stops working after fine-tuning.
 
 ## Research
 
