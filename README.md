@@ -1,63 +1,50 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Kevin Joy Thomas: AI engineer and independent researcher" src="assets/header-light.svg" width="100%">
+  <img alt="Kevin Joy Thomas, AI engineer" src="assets/header-light.svg" width="100%">
 </picture>
 
-<p align="center">
-  <a href="https://kevinjoythomas.github.io"><img src="https://img.shields.io/badge/Homepage-kevinjoythomas.github.io-0969da?style=flat-square&logo=githubpages&logoColor=white" alt="Homepage"></a>
-  <a href="https://www.linkedin.com/in/kevin-joy-thomas-0aa399271/"><img src="https://img.shields.io/badge/LinkedIn-Kevin_Joy_Thomas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:kevinjoythomas2004@gmail.com"><img src="https://img.shields.io/badge/Email-kevinjoythomas2004-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://leetcode.com/u/kevinjoythomas7"><img src="https://img.shields.io/badge/LeetCode-kevinjoythomas7-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://kaggle.com/kevinjoythomas"><img src="https://img.shields.io/badge/Kaggle-kevinjoythomas-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-</p>
+[Resume](https://drive.google.com/file/d/1lCiF9b8M5p-fDf6Ri24wTQ1jVWCUmWJn/view) · [LinkedIn](https://www.linkedin.com/in/kevin-joy-thomas/) · [LeetCode](https://leetcode.com/u/kevinjoythomas7/) · [Hugging Face](https://huggingface.co/kevinjoythomas) · kevinjoythomas2004@gmail.com
 
-I build LLM systems that have to be right, not just fluent: medical question answering, retrieval over technical documents, and the evaluations that show whether either one actually works.
+I build LLM systems that have to be right, not just fluent: extraction pipelines that read engineering documents into structured specs, agents that research with citations, a medical assistant with a safety gate in front of the model. I spend as much time on the evaluation as on the system, because that is how you find out it was wrong before a user does.
 
-### Research
+## Experience
 
-<p>
-<a href="https://kevinjoythomas.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/r-seedoctor-dark.svg"><img alt="Saying See a Doctor Is Not Triage, preprint November 2026" src="assets/r-seedoctor-light.svg" width="100%"></picture></a>
-<a href="https://github.com/Kevinjoythomas/OpenHealth"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/r-openhealth-dark.svg"><img alt="OpenHealth triage safety gate, in preparation" src="assets/r-openhealth-light.svg" width="100%"></picture></a>
-</p>
+| | Role | Where | When |
+|---|---|---|---|
+| **DeepMechanix** | Founding AI Engineer | San Jose, remote | May 2026 to present |
+| **United Field Services** | AI Specialist, contract | Los Angeles, remote | Oct 2025 to present |
+| **Google** | Software Engineering Intern, Workspace Search | Bangalore | Jun to Aug 2025 |
+| **Moksa.AI** | Machine Learning Intern | Hyderabad | Feb to May 2025 |
+| **Envideo Technologies** | Founding AI Engineer (Intern) | Remote | Feb 2024 to Mar 2025 |
 
-### Selected work
+At DeepMechanix: a document-intelligence pipeline that turns engineering packages into cited design specs (93.1% of checked fields correct vs 74.7% for GPT-5.5 alone on held-out vessels), the agentic extraction layer behind it, and a multi-agent research engine that stores every claim with a quote, source URL and confidence band. At UFS: an inbound voice agent on Claude Haiku 4.5 and Deepgram, a vendor-matching ranker measured on 800 held-out jobs (Hit@10 20.1% to 34.1%), and a daily lead pipeline across all 50 US states. At Google: a third-party client search server migrated from Java to an internal C++ framework.
 
-<p>
-<a href="https://github.com/Kevinjoythomas/OpenHealth"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-openhealth-dark.svg"><img alt="OpenHealth" src="assets/p-openhealth-light.svg" width="49%"></picture></a>
-<a href="https://github.com/Kevinjoythomas/asme-rag-harness"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-asme-dark.svg"><img alt="asme-rag-harness" src="assets/p-asme-light.svg" width="49%"></picture></a>
-<a href="https://github.com/Kevinjoythomas/Kubernetes-Store-Provisioning-Platform"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-k8s-dark.svg"><img alt="Store provisioning on Kubernetes" src="assets/p-k8s-light.svg" width="49%"></picture></a>
-<a href="https://github.com/Kevinjoythomas/Network-Security-Pipeline"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-netsec-dark.svg"><img alt="Network security pipeline" src="assets/p-netsec-light.svg" width="49%"></picture></a>
-<a href="https://github.com/Kevinjoythomas/Person-Reidentification-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-reid-dark.svg"><img alt="Person re-identification" src="assets/p-reid-light.svg" width="49%"></picture></a>
-<a href="https://github.com/Kevinjoythomas/Unattended-Baggage-Detection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-baggage-dark.svg"><img alt="Unattended baggage detection" src="assets/p-baggage-light.svg" width="49%"></picture></a>
-</p>
+## Research
 
-<table>
-<tr>
-<td width="33%" align="center"><a href="https://github.com/Kevinjoythomas/OpenHealth"><img src="https://raw.githubusercontent.com/Kevinjoythomas/OpenHealth/main/website/static/repo_images/chatbot.png" alt="OpenHealth chat interface"></a><br><sub>OpenHealth chat interface</sub></td>
-<td width="33%" align="center"><a href="https://github.com/Kevinjoythomas/Unattended-Baggage-Detection"><img src="https://raw.githubusercontent.com/Kevinjoythomas/Unattended-Baggage-Detection/main/img.png" alt="Unattended baggage detection"></a><br><sub>Unattended baggage flagged in video</sub></td>
-<td width="33%" align="center"><a href="https://github.com/Kevinjoythomas/Stroke-Prediction-Pipeline"><img src="https://raw.githubusercontent.com/Kevinjoythomas/Stroke-Prediction-Pipeline/main/website.png" alt="Stroke prediction web app"></a><br><sub>Stroke-risk app from an MLOps pipeline</sub></td>
-</tr>
-</table>
+| | | |
+|---|---|---|
+| **Saying "See a Doctor" Is Not Triage** | Sole author, under review | A keyword safety rubric rated a QLoRA-fine-tuned Llama 3 8B 6.7x safer on emergencies while blinded judges found no change; rubric-judge agreement fell from Cohen's kappa 0.61 to 0.03, replicated on 273 physician-labeled HealthBench conversations. |
+| **OpenHealth triage gate** | First author, in preparation | A pre-generation gate (40 red-flag rules plus a zero-shot Gemma 3 4B check) that catches 92% of emergencies at 92% specificity, 2.9 s per message on a 4 GB laptop GPU. |
 
-### Experience
+## Selected work
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
-  <img alt="Experience: DeepMechanix, United Field Services, Google, mokSa.ai, Envideo Technology" src="assets/experience-light.svg" width="100%">
-</picture>
+| Repository | What it is |
+|---|---|
+| [OpenHealth](https://github.com/Kevinjoythomas/OpenHealth) | Private medical assistant: QLoRA-fine-tuned Llama 3 8B, hybrid keyword and semantic retrieval over clinical guidelines with citations, five services on Docker Compose. Measured: retrieval about 0.1 s warm, 4.2 s per answer on a T4. |
+| [asme-rag-harness](https://github.com/Kevinjoythomas/asme-rag-harness) | Clause-level retrieval evaluation over an engineering code, with abstention and a citation graph. |
+| [Kubernetes-Store-Provisioning-Platform](https://github.com/Kevinjoythomas/Kubernetes-Store-Provisioning-Platform) | A Kubernetes operator that provisions isolated store environments: Helm, network policies, resource quotas. |
+| [Network-Security-Pipeline](https://github.com/Kevinjoythomas/Network-Security-Pipeline) | MLOps pipeline for phishing-site detection: schema and drift checks, MLflow tracking, a FastAPI service, Docker image shipped to AWS by CI. |
+| [Person-Reidentification-System](https://github.com/Kevinjoythomas/Person-Reidentification-System) | Cross-camera person re-identification API on torchreid embeddings, served with Flask. |
+| [Unattended-Baggage-Detection](https://github.com/Kevinjoythomas/Unattended-Baggage-Detection) | Flags unattended bags in video by tracking people and bags with YOLOv8 and Deep SORT. |
 
-### Recognition
+## Recognition
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/recognition-dark.svg">
-  <img alt="Amazon ML Challenge rank 89 of 74,850; Microsoft hackathon top 8 of 500; CBIT national hackathon top 10 of 350; Flipkart GRiD 5.0 qualifier" src="assets/recognition-light.svg" width="100%">
-</picture>
+- 89th of 74,829 participants, Amazon ML Challenge 2024
+- 8th place, HackXcelerate 2024, a national hackathon held with Microsoft, Hyderabad
+- LeetCode: 759 problems solved, contest rating 1,758, top 10.4%
 
-### Toolkit
+## Toolkit
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Ccpp%2Cpytorch%2Ctensorflow%2Copencv%2Cdocker%2Ckubernetes%2Caws%2Cterraform%2Cflask%2Cfastapi%2Creact%2Cpostgres%2Cmongodb%2Clinux%2Cgit&theme=dark&perline=16">
-  <img alt="Python, C++, PyTorch, TensorFlow, OpenCV, Docker, Kubernetes, AWS, Terraform, Flask, FastAPI, React, PostgreSQL, MongoDB, Linux, Git" src="https://skillicons.dev/icons?i=py%2Ccpp%2Cpytorch%2Ctensorflow%2Copencv%2Cdocker%2Ckubernetes%2Caws%2Cterraform%2Cflask%2Cfastapi%2Creact%2Cpostgres%2Cmongodb%2Clinux%2Cgit&theme=light&perline=16">
-</picture>
+Python, C++, C · PyTorch, QLoRA, LangChain, Ollama, sentence-transformers, OpenVINO, YOLO · FastAPI, Flask, PostgreSQL, Redis, RabbitMQ, React · Docker, GitHub Actions, AWS
 
 <sub>B.E. in Information Technology, Maturi Venkata Subba Rao (MVSR) Engineering College, Hyderabad, 2022 to 2026.</sub>
