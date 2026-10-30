@@ -19,7 +19,7 @@ I build LLM systems that have to be right, not just fluent: extraction pipelines
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
-  <img alt="Experience: DeepMechanix, Founding AI Engineer, San Jose remote, May 2026 to present. United Field Services, AI Specialist contract, Los Angeles remote, Oct 2025 to present. Google, Software Engineering Intern on Workspace Search, Bangalore, Jun to Aug 2025. Moksa.AI, Machine Learning Intern, Hyderabad, Feb to May 2025. Envideo Technologies, Founding AI Engineer intern, remote, Feb 2024 to Mar 2025. Taught data structures, algorithms and applied AI at Suntek Corp Solutions (2025). Ran technical sessions at WiseCoder (2025)." src="assets/experience-light.svg" width="100%">
+  <img alt="Experience: United Field Services, AI Engineer (AI Specialist) on contract, Los Angeles remote, Oct 2025 to 2026. Google, Software Engineering Intern on Workspace Search, Bangalore, Jun to Aug 2025. Moksa.AI, Machine Learning Intern, Hyderabad, Feb to May 2025. Envideo Technologies, Founding AI Engineer intern, remote, Feb 2024 to Mar 2025. Taught data structures, algorithms and applied AI at Suntek Corp Solutions (2025). Ran technical sessions at WiseCoder (2025)." src="assets/experience-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -29,7 +29,7 @@ I build LLM systems that have to be right, not just fluent: extraction pipelines
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg">
-  <img alt="What I am building right now. DeepMechanix: document AI for engineering, pipelines and agents that read drawings and datasheets into structured specs with a citation behind every value, and a research engine that cites every number. United Field Services: a phone agent for contractor and client calls, and a daily pipeline that finds and verifies leads across all 50 states. On the side: a medical assistant with a safety gate in front of the model, and a paper on why the usual safety check stops working after fine-tuning." src="assets/now-light.svg" width="100%">
+  <img alt="What I am building right now. DeepMechanix: document AI for engineering, pipelines and agents that read drawings and datasheets into structured specs with a citation behind every value, and a research engine that cites every number. On the side: a medical assistant with a safety gate in front of the model, and a paper on why the usual safety check stops working after fine-tuning." src="assets/now-light.svg" width="100%">
 </picture>
 
 <p align="center"><img src="assets/speed-watches.jpg" width="320" alt="Safety rubric: the fine-tuned model is 6x safer now. Me, holding 13K blinded judgments: watches."></p>
@@ -79,4 +79,4 @@ I build LLM systems that have to be right, not just fluent: extraction pipelines
   <img alt="Python, C++, C, PyTorch, Docker, AWS, Flask, FastAPI, React, PostgreSQL, Redis, RabbitMQ, Linux, Git, Hugging Face, LangChain, Ollama, GitHub Actions" src="assets/toolkit-light.svg" width="100%">
 </picture>
 
-<sub>B.E. in Information Technology, Maturi Venkata Subba Rao (MVSR) Engineering College, Hyderabad, 2022 to 2026.</sub>
+<sub>Information Technology, Maturi Venkata Subba Rao (MVSR) Engineering College, Hyderabad, 2022 to 2026.</sub>
